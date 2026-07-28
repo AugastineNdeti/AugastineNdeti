@@ -37,11 +37,11 @@
 
 ## 🚀 Recent Activity
 <!-- GITHUB_ACTIVITY:START -->
+📝 Other activity in **sundussule/leadgen** - 7/28/2026
 🔥 Pushed 1 commit to **AugastineNdeti/MyPortfolioVersion3** - 7/24/2026
 📝 Other activity in **AugastineNdeti/MyPortfolioVersion3** - 7/24/2026
 🔥 Pushed 1 commit to **AugastineNdeti/on-cloud-store-final-perfect-** - 7/22/2026
 📝 Other activity in **AugastineNdeti/on-cloud-store-final-perfect-** - 7/22/2026
-📝 Other activity in **sundussule/IPEN-Admin** - 7/20/2026
 <!-- GITHUB_ACTIVITY:END -->
 
 ## 🔥 Latest Projects
