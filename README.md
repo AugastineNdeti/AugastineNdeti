@@ -20,14 +20,14 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 6 hrs 55 mins over the Last 7 Days**
+**📊 9 hrs 33 mins over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **C#**: 3 hrs 26 mins (47.87%)
-- **TypeScript**: 1 hr 21 mins (19%)
-- **XML**: 42 mins (9.87%)
-- **Binary**: 41 mins (9.57%)
-- **JSON**: 25 mins (5.88%)
+- **C#**: 4 hrs 10 mins (42.47%)
+- **TypeScript**: 3 hrs 7 mins (31.79%)
+- **Binary**: 46 mins (7.8%)
+- **XML**: 42 mins (7.2%)
+- **JSON**: 26 mins (4.52%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -47,7 +47,7 @@
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
 🚀 **[MrBytes10](https://github.com/AugastineNdeti/MrBytes10)** `JavaScript` 
-   📅 Last updated: 8/7/2026
+   📅 Last updated: 8/8/2026
 🚀 **[on-cloud-backend](https://github.com/AugastineNdeti/on-cloud-backend)** `C#` 
    📅 Last updated: 8/3/2026
 🚀 **[MyPortfolioVersion3](https://github.com/AugastineNdeti/MyPortfolioVersion3)** `JavaScript` 
