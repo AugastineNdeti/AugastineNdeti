@@ -1,4 +1,6 @@
-name: Update README with GitHub Activity
+# File: .github/workflows/update-readme.yml
+
+name: Update README with Enhanced GitHub Activity
 
 on:
   schedule:
@@ -10,31 +12,48 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      # This permission is required to push the updated README back to the repository
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 1: Setup Node.js environment. 
+      # Caching is removed to prevent the error, as it's not needed for this simple setup.
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
-          
+          node-version: '20'
+
+      # Step 2: Create package.json and install the single dependency.
       - name: Install dependencies
         run: |
-          echo '{"type": "module"}' > package.json
-          npm install @octokit/rest
-          
-      - name: Update README with activity
+          echo '{ "type": "module", "dependencies": { "@octokit/rest": "^20.0.0" } }' > package.json
+          npm install
+
+      # Step 3: Run the script to update the README file.
+      - name: Update README with enhanced activity
         run: node update-readme.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: MrBytes10
+          USERNAME: ${{ github.repository_owner }}
+            # THIS IS THE NEW LINE YOU NEED TO ADD:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           
-      - name: Commit changes
+      # Step 4: Commit and push the changes if the README file was updated.
+      - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git diff --staged --quiet || git commit -m "📊 Update README with latest activity"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "📊 chore: Update README with enhanced GitHub statistics"
+            git push
+          else
+            echo "No changes to README.md. Skipping commit."
+          fi
+        
+      - name: Summary
+        run: echo "✅ README update process completed."
