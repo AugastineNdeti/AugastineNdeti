@@ -13,7 +13,7 @@
 
 ⚡ Fun fact: I enjoy solving complex problems through strategic games like checkers!
 
-📫 How to reach me: mulu.bytes@gmail.com | [Portfolio](https://augastine-s-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/augastine-ndeti-290230175?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRVHDgTWvT9aZ%2BUqdNGKvqQ%3D%3D)
+📫 How to reach me: a.m.ndetis@gmail.com | [Portfolio](https://augastinendeti.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/augastine-ndeti-290230175?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRVHDgTWvT9aZ%2BUqdNGKvqQ%3D%3D)
 
 ## 🚀 Recent Activity
 <!-- GITHUB_ACTIVITY:START -->
