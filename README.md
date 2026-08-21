@@ -19,14 +19,14 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 9 hrs 43 mins over the Last 7 Days**
+**📊 5 hrs 46 mins over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **C#**: 3 hrs 46 mins (37.24%)
-- **Binary**: 3 hrs 14 mins (31.96%)
-- **JavaScript**: 1 hr 45 mins (17.35%)
-- **JSON**: 50 mins (8.28%)
-- **Other**: 25 mins (4.2%)
+- **Binary**: 2 hrs 44 mins (41.53%)
+- **C#**: 1 hr 36 mins (24.41%)
+- **Other**: 49 mins (12.45%)
+- **JavaScript**: 42 mins (10.84%)
+- **JSON**: 36 mins (9.27%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -46,7 +46,7 @@
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
-   📅 Last updated: 8/20/2026
+   📅 Last updated: 8/21/2026
 🚀 **[on-cloud-backend](https://github.com/AugastineNdeti/on-cloud-backend)** `C#` 
    📅 Last updated: 8/8/2026
 🚀 **[MyPortfolioVersion3](https://github.com/AugastineNdeti/MyPortfolioVersion3)** `JavaScript` 
