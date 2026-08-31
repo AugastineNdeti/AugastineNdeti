@@ -22,11 +22,11 @@
 **📊 10 hrs over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **C#**: 6 hrs 39 mins (58.91%)
-- **Binary**: 2 hrs 55 mins (25.93%)
-- **Other**: 1 hr 18 mins (11.58%)
-- **JSON**: 15 mins (2.32%)
-- **ASP.NET**: 6 mins (0.94%)
+- **C#**: 6 hrs 39 mins (59.24%)
+- **Binary**: 2 hrs 55 mins (26.07%)
+- **Other**: 1 hr 14 mins (11.1%)
+- **JSON**: 15 mins (2.33%)
+- **ASP.NET**: 6 mins (0.95%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -82,7 +82,7 @@
 - C#: 2.8%
 - SCSS: 1.4%
 ---
-*📅 Statistics last updated: August 30, 2026*
+*📅 Statistics last updated: August 31, 2026*
 <!-- REALTIME_STATS:END -->
 
 ## 🏢 Organization Activity
