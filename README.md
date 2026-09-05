@@ -19,19 +19,19 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 9 hrs 29 mins over the Last 7 Days**
+**📊 8 hrs 45 mins over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **C#**: 4 hrs 29 mins (44.88%)
-- **Binary**: 3 hrs 7 mins (31.24%)
-- **Other**: 32 mins (5.41%)
-- **JSON**: 31 mins (5.28%)
-- **Python**: 28 mins (4.7%)
+- **C#**: 4 hrs 26 mins (47.85%)
+- **Binary**: 2 hrs 23 mins (25.77%)
+- **Other**: 32 mins (5.75%)
+- **JSON**: 31 mins (5.7%)
+- **Python**: 28 mins (5.06%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
 <!-- CONTRIBUTION_SUMMARY:START -->
-📊 **90** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **5** commits (last month) | 📈 **5** active repos
+📊 **90** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **41** followers | 🔥 **5** commits (last month) | 📈 **5** active repos
 <!-- CONTRIBUTION_SUMMARY:END -->
 
 ## 🚀 Recent Activity
@@ -64,7 +64,7 @@
 - **Total Repositories:** 90
 - **Total Stars Earned:** 9 ⭐
 - **Total Forks:** 1 🍴
-- **Followers:** 42 👥
+- **Followers:** 41 👥
 - **Following:** 47 👥
 - **Public Gists:** 0 📝
 - **Account Age:** 8 years (since 2018)
@@ -82,7 +82,7 @@
 - C#: 2.8%
 - SCSS: 1.4%
 ---
-*📅 Statistics last updated: September 4, 2026*
+*📅 Statistics last updated: September 5, 2026*
 <!-- REALTIME_STATS:END -->
 
 ## 🏢 Organization Activity
