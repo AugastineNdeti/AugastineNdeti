@@ -31,7 +31,7 @@
 
 ## 📈 Contribution Summary
 <!-- CONTRIBUTION_SUMMARY:START -->
-📊 **90** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **4** commits (last month) | 📈 **5** active repos
+📊 **91** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **5** commits (last month) | 📈 **6** active repos
 <!-- CONTRIBUTION_SUMMARY:END -->
 
 ## 🚀 Recent Activity
@@ -43,23 +43,23 @@
 
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
+🚀 **[Inventory-Order-Management-System](https://github.com/AugastineNdeti/Inventory-Order-Management-System)** `C#` 
+   📅 Last updated: 9/10/2026
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
-   📅 Last updated: 9/9/2026
+   📅 Last updated: 9/10/2026
 🚀 **[on-cloud-backend](https://github.com/AugastineNdeti/on-cloud-backend)** `C#` 
    📅 Last updated: 8/8/2026
 🚀 **[MyPortfolioVersion3](https://github.com/AugastineNdeti/MyPortfolioVersion3)** `JavaScript` 
    📅 Last updated: 7/24/2026
 🚀 **[on-cloud-store-final-perfect-](https://github.com/AugastineNdeti/on-cloud-store-final-perfect-)** `TypeScript` 
    📅 Last updated: 7/22/2026
-🚀 **[SubscriptionBilling](https://github.com/AugastineNdeti/SubscriptionBilling)** `C#` 
-   📅 Last updated: 4/25/2026
 <!-- LATEST_PROJECTS:END -->
 
 <!-- REALTIME_STATS:START -->
 
 ## 📊 Real-Time GitHub Statistics
 ### 🎯 Profile Overview
-- **Total Repositories:** 90
+- **Total Repositories:** 91
 - **Total Stars Earned:** 9 ⭐
 - **Total Forks:** 1 🍴
 - **Followers:** 42 👥
@@ -67,18 +67,18 @@
 - **Public Gists:** 0 📝
 - **Account Age:** 8 years (since 2018)
 ### 🔥 Contribution Activity
-- **Last Week:** 0 commits
-- **Last Month:** 4 commits
-- **Last 6 Months:** 18 commits
+- **Last Week:** 1 commits
+- **Last Month:** 5 commits
+- **Last 6 Months:** 19 commits
 ### 💻 Language Distribution (by code volume)
-- Jupyter Notebook: 34.2%
-- Python: 31.0%
-- JavaScript: 17.2%
-- CSS: 4.8%
-- HTML: 4.3%
-- TypeScript: 3.8%
-- C#: 2.8%
-- SCSS: 1.4%
+- Jupyter Notebook: 32.2%
+- Python: 29.1%
+- JavaScript: 16.2%
+- C#: 8.6%
+- CSS: 4.6%
+- HTML: 4.0%
+- TypeScript: 3.6%
+- SCSS: 1.3%
 ---
 *📅 Statistics last updated: September 10, 2026*
 <!-- REALTIME_STATS:END -->
