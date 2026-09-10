@@ -31,7 +31,7 @@
 
 ## 📈 Contribution Summary
 <!-- CONTRIBUTION_SUMMARY:START -->
-📊 **91** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **5** commits (last month) | 📈 **6** active repos
+📊 **91** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **1** commits (last month) | 📈 **6** active repos
 <!-- CONTRIBUTION_SUMMARY:END -->
 
 ## 🚀 Recent Activity
@@ -43,9 +43,9 @@
 
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
-🚀 **[Inventory-Order-Management-System](https://github.com/AugastineNdeti/Inventory-Order-Management-System)** `C#` 
-   📅 Last updated: 9/10/2026
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
+   📅 Last updated: 9/10/2026
+🚀 **[Inventory-Order-Management-System](https://github.com/AugastineNdeti/Inventory-Order-Management-System)** `C#` 
    📅 Last updated: 9/10/2026
 🚀 **[on-cloud-backend](https://github.com/AugastineNdeti/on-cloud-backend)** `C#` 
    📅 Last updated: 8/8/2026
@@ -68,7 +68,7 @@
 - **Account Age:** 8 years (since 2018)
 ### 🔥 Contribution Activity
 - **Last Week:** 1 commits
-- **Last Month:** 5 commits
+- **Last Month:** 1 commits
 - **Last 6 Months:** 19 commits
 ### 💻 Language Distribution (by code volume)
 - Jupyter Notebook: 32.2%
