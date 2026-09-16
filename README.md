@@ -19,14 +19,14 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 4 hrs over the Last 7 Days**
+**📊 4 hrs 35 mins over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **C#**: 2 hrs 44 mins (54.72%)
-- **Other**: 59 mins (19.69%)
-- **Razor**: 31 mins (10.45%)
-- **Python**: 22 mins (7.62%)
-- **Binary**: 22 mins (7.52%)
+- **C#**: 3 hrs 9 mins (54.56%)
+- **Other**: 1 hr 10 mins (20.39%)
+- **Binary**: 28 mins (8.23%)
+- **Razor**: 20 mins (5.83%)
+- **XML**: 15 mins (4.34%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -46,7 +46,7 @@
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
-   📅 Last updated: 9/15/2026
+   📅 Last updated: 9/16/2026
 🚀 **[Inventory-Order-Management-System](https://github.com/AugastineNdeti/Inventory-Order-Management-System)** `C#` 
    📅 Last updated: 9/10/2026
 🚀 **[on-cloud-backend](https://github.com/AugastineNdeti/on-cloud-backend)** `C#` 
