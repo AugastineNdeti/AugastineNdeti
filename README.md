@@ -31,37 +31,37 @@
 
 ## 📈 Contribution Summary
 <!-- CONTRIBUTION_SUMMARY:START -->
-📊 **91** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **1** commits (last month) | 📈 **6** active repos
+📊 **93** repositories | ⭐ **9** stars received | 🍴 **1** forks | 👥 **42** followers | 🔥 **5** commits (last month) | 📈 **8** active repos
 <!-- CONTRIBUTION_SUMMARY:END -->
 
 ## 🚀 Recent Activity
 <!-- GITHUB_ACTIVITY:START -->
+📝 Other activity in **AugastineNdeti/customer_churn_analysis** - 9/19/2026
+🔥 Pushed 1 commit to **AugastineNdeti/MedInsure_Analytics** - 9/19/2026
+📝 Other activity in **AugastineNdeti/MedInsure_Analytics** - 9/19/2026
 📝 Other activity in **sundussule/TodoApi1** - 9/15/2026
 🔥 Pushed 1 commit to **sundussule/TodoApi1** - 9/15/2026
-🔀 Opened pull request in **sundussule/TodoApi1** - 9/15/2026
-📝 Other activity in **sundussule/TodoApi1** - 9/15/2026
-📝 Other activity in **AugastineNdeti/Inventory-Order-Management-System** - 9/10/2026
 <!-- GITHUB_ACTIVITY:END -->
 
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
+🚀 **[customer_churn_analysis](https://github.com/AugastineNdeti/customer_churn_analysis)** `TypeScript` 
+   📅 Last updated: 9/19/2026
+🚀 **[MedInsure_Analytics](https://github.com/AugastineNdeti/MedInsure_Analytics)** `TypeScript` 
+   📅 Last updated: 9/19/2026
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
    📅 Last updated: 9/19/2026
 🚀 **[Inventory-Order-Management-System](https://github.com/AugastineNdeti/Inventory-Order-Management-System)** `C#` 
    📅 Last updated: 9/10/2026
 🚀 **[on-cloud-backend](https://github.com/AugastineNdeti/on-cloud-backend)** `C#` 
    📅 Last updated: 8/8/2026
-🚀 **[MyPortfolioVersion3](https://github.com/AugastineNdeti/MyPortfolioVersion3)** `JavaScript` 
-   📅 Last updated: 7/24/2026
-🚀 **[on-cloud-store-final-perfect-](https://github.com/AugastineNdeti/on-cloud-store-final-perfect-)** `TypeScript` 
-   📅 Last updated: 7/22/2026
 <!-- LATEST_PROJECTS:END -->
 
 <!-- REALTIME_STATS:START -->
 
 ## 📊 Real-Time GitHub Statistics
 ### 🎯 Profile Overview
-- **Total Repositories:** 91
+- **Total Repositories:** 93
 - **Total Stars Earned:** 9 ⭐
 - **Total Forks:** 1 🍴
 - **Followers:** 42 👥
@@ -69,17 +69,17 @@
 - **Public Gists:** 0 📝
 - **Account Age:** 8 years (since 2018)
 ### 🔥 Contribution Activity
-- **Last Week:** 0 commits
-- **Last Month:** 1 commits
-- **Last 6 Months:** 19 commits
+- **Last Week:** 4 commits
+- **Last Month:** 5 commits
+- **Last 6 Months:** 23 commits
 ### 💻 Language Distribution (by code volume)
-- Jupyter Notebook: 32.2%
-- Python: 29.1%
-- JavaScript: 16.2%
-- C#: 8.6%
-- CSS: 4.6%
+- Jupyter Notebook: 31.6%
+- Python: 28.5%
+- JavaScript: 16.0%
+- C#: 8.5%
+- TypeScript: 5.3%
+- CSS: 4.5%
 - HTML: 4.0%
-- TypeScript: 3.6%
 - SCSS: 1.3%
 ---
 *📅 Statistics last updated: September 19, 2026*
