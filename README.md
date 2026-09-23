@@ -19,14 +19,14 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 3 hrs 35 mins over the Last 7 Days**
+**📊 1 hr 57 mins over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **C#**: 2 hrs 23 mins (61.99%)
-- **XML**: 16 mins (7.02%)
-- **Other**: 15 mins (6.8%)
-- **Binary**: 15 mins (6.49%)
-- **Text**: 14 mins (6.29%)
+- **C#**: 1 hr 34 mins (77.96%)
+- **Text**: 14 mins (11.96%)
+- **Binary**: 6 mins (4.97%)
+- **Other**: 4 mins (3.35%)
+- **XML**: 1 min (0.97%)
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -46,7 +46,7 @@
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
-   📅 Last updated: 9/22/2026
+   📅 Last updated: 9/23/2026
 🚀 **[orb_backtest-forex-bot-V1](https://github.com/AugastineNdeti/orb_backtest-forex-bot-V1)** `Python` 
    📅 Last updated: 9/21/2026
 🚀 **[AccountsMarketplace-V1](https://github.com/AugastineNdeti/AccountsMarketplace-V1)** `C#` 
