@@ -19,11 +19,10 @@
 
 ## 📊 WakaTime Stats
 <!-- WAKATIME_STATS:START -->
-**📊 16 mins over the Last 7 Days**
+**📊 0 secs over the Last 7 Days**
 
 **⏱️ Time spent on each Language:**
-- **Text**: 14 mins (86.96%)
-- **C#**: 2 mins (13.04%)
+
 <!-- WAKATIME_STATS:END -->
 
 ## 📈 Contribution Summary
@@ -79,7 +78,7 @@
 - HTML: 3.9%
 - SCSS: 1.3%
 ---
-*📅 Statistics last updated: September 28, 2026*
+*📅 Statistics last updated: September 29, 2026*
 <!-- REALTIME_STATS:END -->
 
 ## 🏢 Organization Activity
