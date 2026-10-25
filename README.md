@@ -38,7 +38,7 @@
 ## 🔥 Latest Projects
 <!-- LATEST_PROJECTS:START -->
 🚀 **[AugastineNdeti](https://github.com/AugastineNdeti/AugastineNdeti)** `JavaScript` 
-   📅 Last updated: 10/24/2026
+   📅 Last updated: 10/25/2026
 🚀 **[orb_backtest-forex-bot-V1](https://github.com/AugastineNdeti/orb_backtest-forex-bot-V1)** `Python` 
    📅 Last updated: 9/21/2026
 🚀 **[AccountsMarketplace-V1](https://github.com/AugastineNdeti/AccountsMarketplace-V1)** `C#` 
@@ -63,7 +63,7 @@
 ### 🔥 Contribution Activity
 - **Last Week:** 0 commits
 - **Last Month:** 0 commits
-- **Last 6 Months:** 30 commits
+- **Last 6 Months:** 28 commits
 ### 💻 Language Distribution (by code volume)
 - Jupyter Notebook: 31.1%
 - Python: 28.2%
